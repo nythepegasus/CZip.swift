@@ -1,0 +1,4 @@
+[submodule "Sources/zip"]
+	path = Sources/zip
+	url = git@github.com:nythepegasus/zip.git
+	branch = main
